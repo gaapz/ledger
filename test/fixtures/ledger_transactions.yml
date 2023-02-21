@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  status: MyString
+  external_id: MyString
+  effective_at: 2023-01-21 20:49:22
+  posted_at: 2023-01-21 20:49:22
+  metadata: 
+  ledger: one
+
+two:
+  description: MyString
+  status: MyString
+  external_id: MyString
+  effective_at: 2023-01-21 20:49:22
+  posted_at: 2023-01-21 20:49:22
+  metadata: 
+  ledger: two
